@@ -9,7 +9,7 @@
 
 ## Note
 
-This repository is a repository of a simple crud project backend with a api vue 3 composition. The frontend repository is https://github.com/fuatakbar/frontend-laravue-crud-simple
+This repository is a repository of a simple crud project backend with a api vue 3 composition. The frontend repository is https://github.com/fuatakbar/frontend-laravue-crud-simple. Tutorial or Source Credit from https://santrikoding.com/installasi-persiapan-laravel-8 big thanks!
 
 ## About Laravel
 
